@@ -1,0 +1,7 @@
+.reveal .answer {
+  color: lime;
+}
+
+.reveal .not-answer {
+  color: red;
+}
